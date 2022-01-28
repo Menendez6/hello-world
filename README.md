@@ -17,6 +17,9 @@ git push
 
 git checkout -b feature/1
 git checkout main
+git branch
+git pull
+git merge
 ```
 
 ## Referencias
